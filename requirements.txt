@@ -1,0 +1,11 @@
+langchain
+langgraph
+google-generativeai
+langchain_community
+python-dotenv
+pdfplumber
+langchain-groq
+streamlit
+ipython
+fpdf
+-e .
